@@ -13,10 +13,6 @@ int main(){
 
 
 
-    std::cout << "r1 = " << r1 << std::endl;
-    std::cout << "r1.area() => " << r1.area() << "; r1.perimeter() => " << r1.perimeter() <<  std::endl;
-
-
     vertices[0] = Point2D(-1,1);
     vertices[1] = Point2D(1,1);
     vertices[2] = Point2D(1,-1);
